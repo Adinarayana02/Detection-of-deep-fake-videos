@@ -28,8 +28,6 @@ DeepFake-Detection
 
 4. Requirements.txt - Python libraries needed for this project. 
 
-## Project Set-up Guidelines
-To set up the project. All the steps and guidelines regarding that are listed [here](https://github.com/iamdhrutipatel/DeepFake-Detection/blob/main/Project-Setup.txt).
 
 ## Note
 1. In the root folder(DeepFake_Detection), create a new folder called "Uploaded_Files".
@@ -52,5 +50,5 @@ To set up the project. All the steps and guidelines regarding that are listed [h
 4) Confusion Matrix:
 <img width="402" alt="Confusion Matrix" src="https://user-images.githubusercontent.com/58872872/133936080-d2b39804-4a99-47b8-8be4-87ba77161961.png">
 
-- To see the working of the project, follow this [link](https://github.com/iamdhrutipatel/DeepFake-Detection/blob/main/Implementation%20Video.mp4).
+
 
